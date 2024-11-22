@@ -24,6 +24,7 @@ namespace GameDev
         public void Start()
         {
             Console.WriteLine("Starting the game...");
+            
             // Game logic here
         }
 
