@@ -1,0 +1,15 @@
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.AssemblyInfoInputs.cache
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.AssemblyInfo.cs
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.csproj.CoreCompileInputs.cache
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.sourcelink.json
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\bin\Debug\net8.0\TugasOOP_Kelompok13.exe
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\bin\Debug\net8.0\TugasOOP_Kelompok13.deps.json
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\bin\Debug\net8.0\TugasOOP_Kelompok13.runtimeconfig.json
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\bin\Debug\net8.0\TugasOOP_Kelompok13.dll
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\bin\Debug\net8.0\TugasOOP_Kelompok13.pdb
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.dll
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\refint\TugasOOP_Kelompok13.dll
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.pdb
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\TugasOOP_Kelompok13.genruntimeconfig.cache
+C:\Users\esun\College\Semester 3\OOP\TugasOOP_Kelompok13\obj\Debug\net8.0\ref\TugasOOP_Kelompok13.dll
