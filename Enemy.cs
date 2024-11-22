@@ -1,6 +1,6 @@
 namespace GameDev
 {
-    class Character
+    class Enemy
     {
         public string Department { get; private set; }
         public string Username { get; private set; }
@@ -9,7 +9,7 @@ namespace GameDev
         public int Points { get; private set; }
         public Dictionary<string, int> Skills { get; private set; }
 
-        public Character(string department, string username)
+        public Enemy(string department, string username)
         {
             Department = department;
             Username = username;
@@ -19,7 +19,7 @@ namespace GameDev
             Skills = new Dictionary<string, int>();
         }
 
-        public void Battle(Character opponent)
+        public void Battle(Enemy opponent)
         {
             // Battle logic here
         }
@@ -32,7 +32,7 @@ namespace GameDev
             }
         }
 
-        public void Attack(Character opponent)
+        public void Attack(Enemy opponent)
         {
             // Basic attack logic
             int damage = 10; // Example damage value

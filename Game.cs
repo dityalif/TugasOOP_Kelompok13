@@ -11,18 +11,21 @@ namespace GameDev
 
         public Game()
         {
-            player = new Character("Teknik Elektro");
             opponents = new List<Character>
             {
-                new Character("Teknik Mesin"),
-                new Character("Teknik Sipil"),
-                new Character("Teknik Kimia")
+                new Character("Teknik Mesin", "Opponent1"),
+                new Character("Teknik Sipil", "Opponent2"),
+                new Character("Teknik Kimia", "Opponent3")
             };
             leaderboard = new Leaderboard();
         }
 
         public void Start()
         {
+            Console.Write("Enter your username: ");
+            string username = Console.ReadLine();
+            player = new Character("Teknik Elektro", username ?? "Player");
+
             Console.WriteLine("Starting the game...");
             
             // Game logic here
